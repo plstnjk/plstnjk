@@ -10,6 +10,6 @@
     Find me on the Internet: <br>
     <a href="https://twitter.com/irenajovanowska">Twitter</a> | 
     <a href="https://linkedin.com/in/irenajovanowska">LinkedIn</a> |
-    <a href="https://irenajovanovska.com/">Portfolio</a> <br> 
+    <a href="https://irenajovanowska.github.io/">Portfolio</a> <br> 
   </samp>
 </p>
