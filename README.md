@@ -3,9 +3,9 @@
   <br>
   <samp>
     Hi there 👋 <br>
-    I'm Irena and I'm a Software Testing Engineer <br>
-    I'm currently experimenting with web development <br>
-    I’m also exploring test automation <br>
+    I'm Irena and I'm a Software Engineer <br>
+    I'm experimenting with web development <br>
+    And also exploring test automation <br>
     <br>
     Find me on the Internet: <br>
     <a href="https://twitter.com/irenajovanowska">Twitter</a> | 
