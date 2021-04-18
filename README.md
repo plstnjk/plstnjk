@@ -8,8 +8,8 @@
     And also exploring test automation <br>
     <br>
     Find me on the Internet: <br>
-    <a href="https://twitter.com/irenajovanowska">Twitter</a> | 
-    <a href="https://linkedin.com/in/irenajovanowska">LinkedIn</a> |
-    <a href="https://irenajovanowska.github.io/">Portfolio</a> <br> 
+    <a href="https://twitter.com/jovanowska_">Twitter</a> | 
+    <a href="https://linkedin.com/in/jovanowska">LinkedIn</a> |
+    <a href="https://jovanowska.github.io/">Portfolio</a> <br> 
   </samp>
 </p>
