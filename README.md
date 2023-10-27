@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image.flaticon.com/icons/svg/616/616564.svg" width="130px">
+  <! -- <img src="https://image.flaticon.com/icons/svg/616/616564.svg" width="130px"> -->
   <br>
   <samp>
     Hi there 👋 <br>
